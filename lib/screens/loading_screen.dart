@@ -27,7 +27,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
       body: Center(
         child: SpinKitDoubleBounce(
           color: Colors.white,
-          size: 100,
+          size: 95,
         ),
       ),
     );
